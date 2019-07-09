@@ -1,4 +1,4 @@
-# Spinnin
+# Spinning'
 
 Tap carefully and keep your spinnin' dot away from others!
 
@@ -10,6 +10,12 @@ FEATURES
 
 PLEASE NOTE
 • Requires iOS version 10.0 or higher
+
+# Contact Us
+
+If you have any questions or suggestions about our app, do not hesitate to contact us.
+
+Email: fxiaoding@gmail.com
 
 ## Privacy Policy
 
@@ -36,9 +42,3 @@ This Service may contain links to other sites. If you click on a third-party lin
 ### Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
-
-# Contact Us
-
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
-
-Email: fxiaoding@gmail.com
