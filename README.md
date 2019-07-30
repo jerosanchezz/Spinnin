@@ -1,6 +1,6 @@
-# Spinning'
+# Spinning Dot
 
-Tap carefully and keep your spinnin' dot away from others!
+Tap carefully and keep your spinning dot away from others!
 
 FEATURES
 • Concise and delightful UI
